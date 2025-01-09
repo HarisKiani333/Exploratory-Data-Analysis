@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Data Analysis using Panda Library
+Data Analysis using Pandas Library
